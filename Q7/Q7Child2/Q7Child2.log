@@ -1,0 +1,13 @@
+﻿Build started 24/12/2015 18:44:17.
+     1>Project "C:\Users\b5014297\Desktop\23Dec_15-38\21-12-2015\Trial_24Dec 12_00_WO_Thread\Q7\Q7Child2\Q7Child2.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(363,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\Q7Child2.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug\Q7Child2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\Q7Child2.lib" /MACHINE:X86 /SAFESEH .\Q7Child2.obj
+         "C:\Users\b5014297\Desktop\23Dec_15-38\21-12-2015\Trial_24Dec 12_00_WO_Thread\rt\Debug\rt.lib"
+     1>Q7Child2.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         Q7Child2.vcxproj -> C:\Users\b5014297\Desktop\23Dec_15-38\21-12-2015\Trial_24Dec 12_00_WO_Thread\Q7\Q7Child2\.\Debug\Q7Child2.exe
+     1>Done Building Project "C:\Users\b5014297\Desktop\23Dec_15-38\21-12-2015\Trial_24Dec 12_00_WO_Thread\Q7\Q7Child2\Q7Child2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
