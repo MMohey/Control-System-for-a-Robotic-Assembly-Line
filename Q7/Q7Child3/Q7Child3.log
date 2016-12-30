@@ -1,0 +1,38 @@
+﻿Build started 24/12/2015 18:44:53.
+     1>Project "C:\Users\b5014297\Desktop\23Dec_15-38\21-12-2015\Trial_24Dec 12_00_WO_Thread\Q7\Q7Child3\Q7Child3.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(363,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\.. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\\" /Fd".\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Q7Child3.cpp
+         Q7Child3.cpp
+     1>c:\users\b5014297\desktop\23dec_15-38\21-12-2015\trial_24dec 12_00_wo_thread\rt\rt.h(1623): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\b5014297\desktop\23dec_15-38\21-12-2015\trial_24dec 12_00_wo_thread\rt\rt.h(1651): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\b5014297\desktop\23dec_15-38\21-12-2015\trial_24dec 12_00_wo_thread\rt\rt.h(1690): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\b5014297\desktop\23dec_15-38\21-12-2015\trial_24dec 12_00_wo_thread\rt\rt.h(1699): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\b5014297\desktop\23dec_15-38\21-12-2015\trial_24dec 12_00_wo_thread\rt\rt.h(1863): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\b5014297\desktop\23dec_15-38\21-12-2015\trial_24dec 12_00_wo_thread\rt\rt.h(1873): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\b5014297\desktop\23dec_15-38\21-12-2015\trial_24dec 12_00_wo_thread\rt\rt.h(2032): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\b5014297\desktop\23dec_15-38\21-12-2015\trial_24dec 12_00_wo_thread\rt\rt.h(2044): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\b5014297\desktop\23dec_15-38\21-12-2015\trial_24dec 12_00_wo_thread\rt\rt.h(2206): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\b5014297\desktop\23dec_15-38\21-12-2015\trial_24dec 12_00_wo_thread\rt\rt.h(2212): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\b5014297\desktop\23dec_15-38\21-12-2015\trial_24dec 12_00_wo_thread\rt\rt.h(2220): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\Q7Child3.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug\Q7Child3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\Q7Child3.lib" /MACHINE:X86 /SAFESEH .\Q7Child3.obj
+         "C:\Users\b5014297\Desktop\23Dec_15-38\21-12-2015\Trial_24Dec 12_00_WO_Thread\rt\Debug\rt.lib"
+     1>Q7Child3.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         Q7Child3.vcxproj -> C:\Users\b5014297\Desktop\23Dec_15-38\21-12-2015\Trial_24Dec 12_00_WO_Thread\Q7\Q7Child3\.\Debug\Q7Child3.exe
+     1>Done Building Project "C:\Users\b5014297\Desktop\23Dec_15-38\21-12-2015\Trial_24Dec 12_00_WO_Thread\Q7\Q7Child3\Q7Child3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.21
