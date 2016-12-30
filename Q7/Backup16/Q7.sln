@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q7", "Q7.vcxproj", "{5582ECCC-00F3-48B2-B8C3-FF3E2911E909}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q7Child", "Q7Child\Q7Child.vcxproj", "{5A786F4E-9AD7-4F44-A9AE-EF70A4BFB9FE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rt", "..\rt\rt.vcxproj", "{389DB4F1-41CC-4C88-829E-CAE3344C769F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Template|Win32 = Template|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5582ECCC-00F3-48B2-B8C3-FF3E2911E909}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5582ECCC-00F3-48B2-B8C3-FF3E2911E909}.Debug|Win32.Build.0 = Debug|Win32
+		{5582ECCC-00F3-48B2-B8C3-FF3E2911E909}.Release|Win32.ActiveCfg = Release|Win32
+		{5582ECCC-00F3-48B2-B8C3-FF3E2911E909}.Release|Win32.Build.0 = Release|Win32
+		{5582ECCC-00F3-48B2-B8C3-FF3E2911E909}.Template|Win32.ActiveCfg = Release|Win32
+		{5582ECCC-00F3-48B2-B8C3-FF3E2911E909}.Template|Win32.Build.0 = Release|Win32
+		{5A786F4E-9AD7-4F44-A9AE-EF70A4BFB9FE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A786F4E-9AD7-4F44-A9AE-EF70A4BFB9FE}.Debug|Win32.Build.0 = Debug|Win32
+		{5A786F4E-9AD7-4F44-A9AE-EF70A4BFB9FE}.Release|Win32.ActiveCfg = Release|Win32
+		{5A786F4E-9AD7-4F44-A9AE-EF70A4BFB9FE}.Release|Win32.Build.0 = Release|Win32
+		{5A786F4E-9AD7-4F44-A9AE-EF70A4BFB9FE}.Template|Win32.ActiveCfg = Template|Win32
+		{5A786F4E-9AD7-4F44-A9AE-EF70A4BFB9FE}.Template|Win32.Build.0 = Template|Win32
+		{389DB4F1-41CC-4C88-829E-CAE3344C769F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{389DB4F1-41CC-4C88-829E-CAE3344C769F}.Debug|Win32.Build.0 = Debug|Win32
+		{389DB4F1-41CC-4C88-829E-CAE3344C769F}.Release|Win32.ActiveCfg = Release|Win32
+		{389DB4F1-41CC-4C88-829E-CAE3344C769F}.Release|Win32.Build.0 = Release|Win32
+		{389DB4F1-41CC-4C88-829E-CAE3344C769F}.Template|Win32.ActiveCfg = Template|Win32
+		{389DB4F1-41CC-4C88-829E-CAE3344C769F}.Template|Win32.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
