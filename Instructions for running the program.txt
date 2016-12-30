@@ -1,0 +1,6 @@
+1-Unzip the attached folder
+2-open Q7 file in visual studio 2013.
+3-Run the program.
+
+The program builds, compiles and run successfully on VS 2013.
+If you have errors related to RT library, make sure the folder is run the folder in a similar direcory as it was sent from (University PC Desktop>Filename)
